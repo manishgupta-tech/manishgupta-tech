@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I'm currently working on AI systems using LLMs, RAG, and FastAPI for real-world applications<br><br>👯 I'm looking to collaborate on AI-driven projects, backend systems, and mobile app development<br><br>🤝 I'm looking for help with system design and scaling AI applications<br><br>🌱 I'm currently learning advanced DSA, system design, and optimizing LLM-based solutions<br><br>💬 Ask me about Python, FastAPI, AI/ML, Android development, and databases<br><br>⚡ Fun fact: I enjoy building real-world AI projects like intelligent assistants and drone simulations 🚀
+# About Me:
+I'm currently working on AI systems using LLMs, RAG, and FastAPI for real-world applications<br><br> I'm looking to collaborate on AI-driven projects, backend systems, and mobile app development<br><br> I'm looking for help with system design and scaling AI applications<br><br> I'm currently learning advanced DSA, system design, and optimizing LLM-based solutions<br><br> Ask me about Python, FastAPI, AI/ML, Android development, and databases<br><br> Fun fact: I enjoy building real-world AI projects like intelligent assistants and drone simulations
 
 
 ## 🌐 Socials:
