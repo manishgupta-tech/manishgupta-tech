@@ -1,24 +1,103 @@
-# About Me:
-I'm currently working on AI systems using LLMs, RAG, and FastAPI for real-world applications<br><br> I'm looking to collaborate on AI-driven projects, backend systems, and mobile app development<br><br> I'm looking for help with system design and scaling AI applications<br><br> I'm currently learning advanced DSA, system design, and optimizing LLM-based solutions<br><br> Ask me about Python, FastAPI, AI/ML, Android development, and databases<br><br> Fun fact: I enjoy building real-world AI projects like intelligent assistants and drone simulations
+::: {align="center"}
+# Manish Gupta
 
+**AI/ML Developer · Backend Engineering · Data Science**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manishgupta-tech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manishgupta94897@gmail.com) 
+I build practical software at the intersection of AI, data, and backend
+systems.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=manishgupta-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=manishgupta-tech&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manishgupta-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[LinkedIn](https://linkedin.com/in/manishgupta-tech) ·
+[Email](mailto:manishgupta94897@gmail.com) ·
+[GitHub](https://github.com/manishgupta-tech)
+:::
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manishgupta-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+------------------------------------------------------------------------
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=manishgupta-tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## About
 
----
-[![](https://komarev.com/ghpvc/?username=manishgupta-tech&icon=0&color=0)](https://visitcount.itsvg.in)
+I'm a developer focused on building useful applications with Python,
+AI/ML, and backend technologies. My work includes LLM-powered workflows,
+data analysis tools, APIs, and mobile applications.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+-   **Currently exploring:** LLM applications, retrieval-augmented
+    generation (RAG), model evaluation, and scalable API design.
+-   **Interested in:** AI-driven products, backend systems, data
+    engineering, and mobile development.
+-   **Working style:** Learn by building, testing, and improving real
+    projects.
+
+## Technical Skills
+
+**Languages**\
+Python · Java · C · JavaScript · SQL · Kotlin
+
+**AI, Data & Computer Vision**\
+LLM applications · RAG · Pandas · NumPy · Matplotlib · Plotly · OpenCV
+
+**Backend & Web**\
+FastAPI · Flask · Django · HTML · CSS · REST APIs
+
+**Databases**\
+MySQL · SQLite
+
+**Tools & Platforms**\
+Git · GitHub · Android Studio · Visual Studio Code · Grafana · Vercel
+
+> Skills listed here reflect technologies I've worked with or am
+> actively learning; depth varies by tool.
+
+## Selected Projects
+
+### Product Quality Inspector
+
+A visual inspection application designed to identify potential product
+defects from uploaded images and produce a structured quality
+assessment.
+
+**Focus:** Python, Flask, Microsoft Foundry, HTML, CSS, JavaScript.
+
+### DataPilot AI
+
+A dataset analysis and decision-support project focused on helping users
+understand dataset quality, summary statistics, and useful patterns.
+
+**Focus:** Python, data analysis, backend development, and database
+fundamentals.
+
+### News Now
+
+An Android application built to present news in a simple mobile
+interface.
+
+**Focus:** Java and Android development.
+
+### QR Generator & Scanner
+
+A utility project for generating and scanning QR codes.
+
+**Focus:** Application logic and practical user workflows.
+
+## GitHub Activity
+
+::: {align="center"}
+`<img height="165" src="https://github-readme-stats.vercel.app/api?username=manishgupta-tech&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics for Manish Gupta" />`{=html}
+`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishgupta-tech&layout=compact&hide_border=true&theme=transparent" alt="Most used languages on GitHub" />`{=html}
+
+`<img src="https://streak-stats.demolab.com?user=manishgupta-tech&hide_border=true&theme=transparent" alt="GitHub contribution streak" />`{=html}
+:::
+
+## Connect
+
+I'm open to collaborating on practical projects involving AI/ML, backend
+development, data applications, and mobile software.
+
+-   **LinkedIn:**
+    [manishgupta-tech](https://linkedin.com/in/manishgupta-tech)
+-   **Email:** <manishgupta94897@gmail.com>
+
+------------------------------------------------------------------------
+
+::: {align="center"}
+`<sub>`{=html}Building consistently. Learning through
+implementation.`</sub>`{=html}
+:::
