@@ -1,173 +1,79 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=MANISH%20GUPTA&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20DEVELOPER%20%7C%20DATA%20SCIENCE%20%7C%20SOFTWARE%20ENGINEERING&descSize=14&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=210&section=header&text=MANISH%20GUPTA&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=DATA%20SCIENCE%20%7C%20PYTHON%20%7C%20AI%20DEVELOPMENT&descSize=14&descAlignY=60"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=M.Sc.+Data+Science+Student;Artificial+Intelligence+Developer;Python+%26+Java+Programmer;Building+Intelligent+Applications;Turning+Ideas+Into+Reality" />
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=M.Sc.+Data+Science+Student;Python+Developer;AI+%26+Data+Science+Enthusiast;Building+Practical+Software+Solutions" />
 </a>
 
 <br/>
 
-<a href="https://github.com/manishgupta-tech">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/manishgupta-tech?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-2563EB?style=for-the-badge&logo=github"/>
-</a>
+<a href="https://github.com/manishgupta-tech"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 <img src="https://komarev.com/ghpvc/?username=manishgupta-tech&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-Hello! I'm **Manish Gupta**, an M.Sc. Data Science student at Kristu Jayanti University, Bengaluru.
-
-I'm interested in developing intelligent applications by combining Artificial Intelligence, Data Science and Software Engineering.
-
-- 🎓 M.Sc. Data Science
-- 🤖 Exploring AI, Machine Learning and AI Agents
-- 🐍 Working with Python and Java
-- ☁️ Exploring Microsoft Azure AI and Microsoft Foundry
-- 📊 Interested in Data Analytics and Computer Vision
-- 🚀 Focused on building practical, real-world projects
+I am an M.Sc. Data Science student at Kristu Jayanti University, Bengaluru, with an interest in Python development, Artificial Intelligence and Data Analytics. I enjoy working with modern technologies, exploring AI tools and developing practical applications that solve real-world problems.
 
 ---
 
-## 🛠️ Tech Stack & Technologies
+## Languages, Frameworks & Tools
 
 <div align="center">
 
-### Programming Languages
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js" />
+<br/>
 
-### Web Development
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,flask,react" />
+<br/>
 
-### Database & Data Science
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+<br/>
 
-### Development Tools & Platforms
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,azure,linux" />
+<br/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🧠 AI & Data Science
+## Certifications
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔍 DataPilot AI
-
-AI-powered dataset analyzer and decision support platform.
-
-**Focus:** Data Analysis, Data Cleaning, Visualization and AI Insights.
-
-</td>
-<td width="50%">
-
-### 🏭 Product Quality Inspector
-
-AI-based visual product quality inspection system.
-
-**Focus:** Computer Vision, AI Agents and Microsoft Foundry.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚑 ResQLink 2.0
-
-Smart Emergency Green Corridor system.
-
-**Focus:** IoT, AI and Emergency Traffic Management.
-
-</td>
-<td width="50%">
-
-### ₿ CryptoPulse / NexCoin AI
-
-AI-powered cryptocurrency application.
-
-**Focus:** Cryptocurrency and AI integration.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⚙️ Smart Unit Converter
-
-Intelligent unit conversion application.
-
-**Focus:** Java, Spring Boot and Unit Conversion.
-
-</td>
-<td width="50%">
-
-### 📱 News Now
-
-Android news application.
-
-**Focus:** Java and Android Studio.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/manishgupta-tech?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_All_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="C:\Users\91787\OneDrive\Desktop\Etxra certificate">
+<img src="https://img.shields.io/badge/Microsoft-Azure_AI_Certificate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure AI Certificate"/>
 </a>
 
 </div>
 
 ---
 
-## 🏆 Certifications & Achievements
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Microsoft-Azure_AI_Certification-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-<br/><br/>
-
-**Microsoft Azure AI Certification**
-
-</div>
-
----
-
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -185,12 +91,8 @@ Android news application.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=110&section=footer"/>
 
-### ✨ Building Tomorrow With Data & Artificial Intelligence.
-
-**Thanks for visiting my profile!**
-
-⭐ If you like my work, consider exploring my repositories.
+**Thanks for visiting my GitHub profile.**
 
 </div>
