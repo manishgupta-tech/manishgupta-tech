@@ -92,15 +92,26 @@ I'm Manish Gupta, a postgraduate student in Data Science at Kristu Jayanti Unive
 ---
 
 <!-- ================= CERTIFICATION ================= -->
-
 ## Certification
 
 <div align="center">
 
-<img src="assets/certificates/badge_ai_microsoft.png" width="150" alt="Microsoft AI Certification"/>
+<a href="https://www.credly.com/earner/earned/badge/3e306b34-d62e-41a8-8e0e-bc49b0c19c45" target="_blank">
+
+<img src="assets/certificates/badge_ai_microsoft.png"
+     width="180"
+     alt="Microsoft Certified Azure AI Fundamentals"
+     title="Click to view my verified credential" />
+
+</a>
+
+<br/>
+
+**Microsoft Certified: Azure AI Fundamentals**
+
+<sub>Issued by Microsoft · November 2026</sub>
 
 </div>
-
 ---
 
 <!-- ================= CONNECT ================= -->
