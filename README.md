@@ -1,94 +1,90 @@
- <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,50:2563EB,100:06B6D4&height=180&section=header&text=MANISH%20GUPTA&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=DATA%20SCIENCE%20%7C%20PYTHON%20%7C%20AI%20DEVELOPMENT&descSize=13&descAlignY=60"/>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=M.Sc.+Data+Science+Student;Python+Developer;AI+%26+Data+Science;Building+Practical+Applications" alt="Typing animation"/>
+<!-- ANIMATED BLACK WELCOME BANNER -->
+
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Arial&weight=800&size=38&duration=2500&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=120&lines=WELCOME+TO+MY+PROFILE;I'M+MANISH+GUPTA;DATA+SCIENCE+%7C+PYTHON+DEVELOPER" alt="Welcome Animation"/>
 
 <br/><br/>
 
-<a href="https://github.com/manishgupta-tech">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/manishgupta-tech/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://manishgupta-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-0F766E?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<!-- SOCIAL BADGES -->
+
+
+<!-- SOCIAL BADGES -->
+
+
+<a href="https://www.linkedin.com/in/manishgupta-tech/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:manishgupta94897@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=manishgupta-tech&label=PROFILE+VIEWS&color=0EA5E9&style=for-the-badge" alt="Profile Views"/>
 
 </div>
+
+
 
 ---
 
 ## About Me
 
-I am an M.Sc. Data Science student at Kristu Jayanti University, Bengaluru, focused on Python development, Artificial Intelligence and Data Analytics. I enjoy developing practical applications and exploring technologies that solve real-world problems.
+```python
+class ManishGupta:
+    def __init__(self):
+        self.name = "Manish Gupta"
+        self.role = "Data Science & AI/ML Enthusiast"
+        self.education = "M.Sc. Data Science | Kristu Jayanti University"
+
+        self.skills = [
+            "Python", "Java", "SQL", "Pandas", "NumPy",
+            "Matplotlib", "Scikit-learn", "NLP", "Flask", "MySQL"
+        ]
+
+    def introduce(self):
+        print("Welcome to my GitHub profile!")
+
+me = ManishGupta()
+me.introduce()
+```
 
 ---
 
-
-## Languages, Frameworks & Tools
+## Languages, Libraries, Frameworks & Tools
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=html&theme=light" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100" alt="Python"/>
 </td>
 <td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=css&theme=light" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100" height="100" alt="Java"/>
 </td>
 <td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=js&theme=light" width="65"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </td>
 <td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=python&theme=light" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="100" height="100" alt="Pandas"/>
 </td>
 <td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=mysql&theme=light" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="100" height="100" alt="NumPy"/>
 </td>
 </tr>
+
 <tr>
-<td align="center">
-HTML5
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="100" height="100" alt="Matplotlib"/>
 </td>
-<td align="center">
-CSS3
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="100" height="100" alt="Scikit-learn"/>
 </td>
-<td align="center">
-JavaScript
+<td align="center" width="20%">
+<img src="https://cdn.simpleicons.org/spacy/09A3D5" width="100" height="100" alt="NLP"/>
 </td>
-<td align="center">
-Python
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="100" height="100" alt="Flask"/>
 </td>
-<td align="center">
-MySQL
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="100" height="100" alt="MySQL"/>
 </td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="65"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=sqlite&theme=light" width="65"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode&theme=light" width="65"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git&theme=light" width="65"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github&theme=light" width="65"/>
-</td>
-</tr>
-<tr>
-<td align="center">MongoDB</td>
-<td align="center">SQLite</td>
-<td align="center">VS Code</td>
-<td align="center">Git</td>
-<td align="center">GitHub</td>
 </tr>
 </table>
 
@@ -96,12 +92,30 @@ MySQL
 
 ---
 
+## Verified Badges & Certifications
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:172554&height=100&section=footer"/>
+<img src="./assets/certificates/badge_ai_microsoft.png" width="160" alt="Microsoft AI Certification Badge"/>
 
-**Thank you for visiting my GitHub profile.**
+</div>
 
-<a href="https://manishgupta-portfolio.vercel.app/">Visit My Portfolio</a>
+---
+
+## GitHub Contributions
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=manishgupta-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**Thank you for visiting my GitHub profile!**
+
+<a href="mailto:manishgupta94897@gmail.com">Let's Connect</a>
 
 </div>
