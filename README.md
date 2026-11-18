@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/manishgupta-tech/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="mailto:manishgupta94897@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=manishgupta-tech&label=PROFILE+VIEWS&color=0EA5E9&style=for-the-badge" alt="Profile Views"/>
-
+</div>
 </div>
 
 
